@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:beige
+  }
+h2 {
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+   } 
+h3 {
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+   }  
+h4 {
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+   }  
+body {
+    text-align: center;
+  }
+body {
+    background-image: url("https://i0.wp.com/criptotendencia.com/wp-content/uploads/2019/06/Criptografos-mas-Famosos-de-la-Historia.jpg?fit=1918%2C1064&ssl=1");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.campo1 {
+    width: 230px;
+    height: 60px;   
+    background-color: rgba(136, 167, 172, 0.384);
+    color:black;
+    font-size: 16px;  
+    border-radius: 10px;
+}
+.campo2 {
+    border-radius: 10px;
+}
+.campo3 {
+    width: 230px;
+    height: 60px;   
+    background-color: rgba(136, 167, 172, 0.384);
+    font-size: 16px; 
+    color: black;
+    border-radius: 10px;
+}
+.btn1:hover {
+    background-color:rgb(170, 243, 243)
+}
+.btn2:hover {
+    background-color:rgb(170, 243, 243)
+}
+.btn3:hover {
+    background-color:rgb(170, 243, 243)
+}
