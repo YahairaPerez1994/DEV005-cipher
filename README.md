@@ -45,9 +45,9 @@ aplicación en el sistema ROT13.
 
 ## 2. Resumen del proyecto
 
-En este proyecto crearás una aplicación web que servirá para que tu usuaria
-pueda cifrar y descifrar un texto en el navegador indicando un desplazamiento
-específico de caracteres (_offset_). Lo harás utilizando HTML, CSS y JavaScript.
+En este proyecto se creó una aplicación web que permite al usuario cifrar y descifrar
+un texto indicando un desplazamiento específico de caracteres. Se realizo utilizando 
+HTML, CSS y JavaScript.
 
 La temática es libre. Piensa en qué situaciones se necesitaría cifrar un mensaje.
 Decide cómo debe ser esa experiencia de uso (qué pantallas, explicaciones, mensajes,
