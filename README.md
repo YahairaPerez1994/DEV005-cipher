@@ -469,12 +469,14 @@ un texto indicando un desplazamiento específico de caracteres.
 
 La temática de este proyecto es una web de uso interno para una zona de conflictos, este programa permite a los usuarios compartir de manera segura los mensajes con otros usuarios sin ningun temor a que personas ajenas a la zona puedan descubrir los mensajes.
 
+
 2. Primer prototipo en papel
 -------------------------------------------------------------------------------------------
 Inicialmente se realizo un prototipo en papel 
 
 . Boceto a mano alzada.
-![Boceto-a-mano-alzada](src\Imagen\Boceto-a-mano-alzada.jpg)
+![Boceto-a-mano-alzada](https://github.com/YahairaPerez1994/DEV005-cipher/blob/main/src/imagen/Boceto-a-mano-alzada.jpg?raw=true)
+
 
 3. Desarrollo
 --------------------------------------------------------------------------------------------
@@ -488,6 +490,7 @@ Para descifrar un mensaje, el usuario primero debera ingresar el mensaje que des
 
 4. Investigación
 --------------------------------------------------------------------------------------------
+
 4.1. Usuarios
 
 Cualquier tipo de usuario que se encuentre en zonas de conflictos y que tenga la necesidad de enviar mensajes
@@ -505,7 +508,9 @@ sin nungun temor a que usuarios ajenos a las zonas puedan descubrir esos mensaje
 
 4.4 Prototipo final
 
-![Boceto-final](src\Imagen\boceto-final.jpg)
+![Boceto-final](https://github.com/YahairaPerez1994/DEV005-cipher/blob/main/src/imagen/boceto-final.jpg?raw=true)
 
+
+---------------------------------------------------------------------------------------------------
  GitHub Pages:
  https://yahairaperez1994.github.io/DEV005-cipher/src/
