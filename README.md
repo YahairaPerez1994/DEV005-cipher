@@ -469,3 +469,48 @@ Project Feedback:
 * [ ] El proyecto será entregado subiendo tu código a GitHub.
 * [ ] La interfaz será "desplegada" usando GitHub Pages.
 * [ ] El README contiene una definición del producto.
+
+README
+-----------------------------------------------------------------------------------------
+ Cifrado de Mensajeria Secreta 
+-----------------------------------------------------------------------------------------
+1. Resumen
+-----------------------------------------------------------------------------------------
+En este proyecto se creó una aplicación web que permite al usuario cifrar y descifrar
+un texto indicando un desplazamiento específico de caracteres. 
+La temática de este proyecto es una web de uso interno en una zona de conflictos, este programa permite a los usuarios compartir de manera segura los mensajes con otros usuarios si ningun temor a que personas ajenas a la zona puedan descubrir los mensajes.
+-------------------------------------------------------------------------------------------
+2. Proyecto Final
+-------------------------------------------------------------------------------------------
+Pagina Principal
+http://localhost:3000/
+--------------------------------------------------------------------------------------------
+3. Investigación
+--------------------------------------------------------------------------------------------
+3.1. Usuarios
+Cualquier tipo de usuario que se encuentre en zonas de conflictos.
+
+3.2. Objetivos
+. El usuario puede ingresar su mensaje de forma sencilla
+. El usuario puede cifrar y descifrar su mensaje de forma sencilla y segura.
+
+
+---------------------------------------------------------------------------------------------
+3.3 Solución de Necesidades
+Los usuarios en una zona de conflictos necesitan enviar mensajes entre ellos de forma sencilla y segura 
+sin nungun temor a que usuarios ajenos a las zonas puedan descubrir esos mensajes.
+
+---------------------------------------------------------------------------------------------
+3.4 Primer prototipo en papel
+Inicialmente se realizo un boceto a mano alzada.
+
+boceto a mano alzada.jpg
+
+
+3.5. Feedbacks
+. 
+
+3.6. Prototipo final
+ GitHub Pages:
+ https://yahairaperez1994.github.io/DEV005-cipher/src/
+ 
