@@ -455,62 +455,56 @@ Organización del Trabajo:
   esperamos que hagas todo eso desde este proyecto. Iremos profundizando poco a
   poco a lo largo del -_bootcamp_.
 
-***
-
-## 9. Para considerar Project Feedback
-
-En resumen, los criterios de aceptación mínimos del proyecto para considerar
-Project Feedback:
-
-* [ ] Tiene una interfaz que permite a la usuaria cifrar y descifrar.
-* [ ] El proyecto será entregado incluyendo pruebas unitarios de los métodos de `cipher`
-(`encode` y `decode`).
-* [ ] El proyecto será entregado libre de _errores_ de `eslint` (_warnings_ son ok).
-* [ ] El proyecto será entregado subiendo tu código a GitHub.
-* [ ] La interfaz será "desplegada" usando GitHub Pages.
-* [ ] El README contiene una definición del producto.
-
+-----------------------------------------------------------------------------------------
 README
 -----------------------------------------------------------------------------------------
+
  Cifrado de Mensajeria Secreta 
------------------------------------------------------------------------------------------
+
+
 1. Resumen
 -----------------------------------------------------------------------------------------
 En este proyecto se creó una aplicación web que permite al usuario cifrar y descifrar
 un texto indicando un desplazamiento específico de caracteres. 
-La temática de este proyecto es una web de uso interno en una zona de conflictos, este programa permite a los usuarios compartir de manera segura los mensajes con otros usuarios si ningun temor a que personas ajenas a la zona puedan descubrir los mensajes.
--------------------------------------------------------------------------------------------
-2. Proyecto Final
--------------------------------------------------------------------------------------------
-Pagina Principal
-http://localhost:3000/
---------------------------------------------------------------------------------------------
-3. Investigación
---------------------------------------------------------------------------------------------
-3.1. Usuarios
-Cualquier tipo de usuario que se encuentre en zonas de conflictos.
 
-3.2. Objetivos
+La temática de este proyecto es una web de uso interno para una zona de conflictos, este programa permite a los usuarios compartir de manera segura los mensajes con otros usuarios sin ningun temor a que personas ajenas a la zona puedan descubrir los mensajes.
+
+2. Primer prototipo en papel
+-------------------------------------------------------------------------------------------
+Inicialmente se realizo un prototipo en papel 
+
+. Boceto a mano alzada.
+![Boceto-a-mano-alzada](src\Imagen\Boceto-a-mano-alzada.jpg)
+
+3. Desarrollo
+--------------------------------------------------------------------------------------------
+Teniendo el primer boceto a mano alzada, lo primero que se realizo fue la estructura de la primera pagina
+en HTML, un diseño de estilos en CSS, el funcionamiento del proyecto se realizo en index.js y cipher.js.
+
+Para cifrar un mensaje, el usuario primero debera ingresar el mensaje que desea cifrar en la primera caja de texto, seguidamente debera elegir un numero de desplazamiento, dara clic al botón "cifrar" y finalmente podra ver su mensaje cifrado en la segunda caja de texto.
+
+Para descifrar un mensaje, el usuario primero debera ingresar el mensaje que desea descifrar en la primera caja de texto, seguidamente debera elegir un numero de desplazamiento, dara clic al botón "descifrar" y finalmente podra ver su mensaje descifrado en la segunda caja de texto.
+
+
+4. Investigación
+--------------------------------------------------------------------------------------------
+4.1. Usuarios
+
+Cualquier tipo de usuario que se encuentre en zonas de conflictos y que tenga la necesidad de enviar mensajes
+cifrados a otro usuario.
+
+4.2. Objetivos
+
 . El usuario puede ingresar su mensaje de forma sencilla
 . El usuario puede cifrar y descifrar su mensaje de forma sencilla y segura.
 
+4.3 Solución de Necesidades
 
----------------------------------------------------------------------------------------------
-3.3 Solución de Necesidades
 Los usuarios en una zona de conflictos necesitan enviar mensajes entre ellos de forma sencilla y segura 
 sin nungun temor a que usuarios ajenos a las zonas puedan descubrir esos mensajes.
 
----------------------------------------------------------------------------------------------
-3.4 Primer prototipo en papel
-Inicialmente se realizo un boceto a mano alzada.
+4.4 Prototipo final
 
-boceto a mano alzada.jpg
-
-
-3.5. Feedbacks
-. 
-
-3.6. Prototipo final
+![Boceto-final](src\Imagen\boceto-final.jpg)
  GitHub Pages:
  https://yahairaperez1994.github.io/DEV005-cipher/src/
- 
